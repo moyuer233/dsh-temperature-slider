@@ -1,0 +1,4 @@
+# 挂载行：settings 的命名空间就是这里的 id（temperature-slider）
+- insert:
+    - id: temperature-slider
+      name: dsh-temperature-slider
